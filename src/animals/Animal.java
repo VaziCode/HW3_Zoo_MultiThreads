@@ -20,7 +20,7 @@ import java.io.IOException;
 
 
 /**
- * Class Animal is an abstract class, represent the base class for all animals types
+ * Class Animal is an abstract class, represent the base class for all animals types.
  * @version 2.0
  * @author Tal Vazana
  * @see Mobile
